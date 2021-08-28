@@ -8,7 +8,7 @@ This repository contains my presentation and code example at the Tritapp worksho
 
 - [event page](https://www.learning.tritapp.net/event/6114cc862fc2fc6ee6efaf6d)
 
-- [Record]() 
+- [Record](https://live4.tritapp.net/playback/presentation/2.3/67b7b5779c2e4b4b40b7d15c9bc309b99e30c21d-1629956127976)
 
 - You can find the **presentation**  [here](https://github.com/vafaei-ar/triTapp-medicalDS-2021/blob/master/triTaap.pdf)
 
